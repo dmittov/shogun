@@ -34,6 +34,7 @@
 */
 #include <shogun/base/Parameter.h>
 #include <shogun/lib/RefCount.h>
+#include <shogun/lib/observers/ObservedValueTemplated.h>
 #include <shogun/lib/observers/ParameterObserver.h>
 #include <shogun/util/converters.h>
 
